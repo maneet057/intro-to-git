@@ -1,2 +1,2 @@
 # intro-to-git
-introduction to git for webD circke og Lean in
+introduction to git for webD circle of Lean in
